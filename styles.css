@@ -10,7 +10,7 @@ body {
 .header-hero {
   display: flex;
   flex-direction: column;
-  background-color: #1F2937;
+  background-color: #1f2937;
   padding: 20px 350px;
   padding-bottom: 200px;
 }
@@ -24,10 +24,10 @@ body {
 .header-logo {
   flex: 1 1 auto;
   font-size: 24px;
-  color: #F9FAF8;
+  color: #f9faf8;
   font-weight: 700;
 }
-.header-nav ul{
+.header-nav ul {
   flex: 1 1 0;
   display: flex;
   list-style: none;
@@ -39,7 +39,7 @@ body {
 .header-nav a {
   margin: 0;
   padding: 0;
-  color: #E5E7EB;
+  color: #e5e7eb;
   text-decoration: none;
 }
 /* hero */
@@ -58,19 +58,19 @@ body {
 .hero-main {
   font-size: 48px;
   font-weight: 700;
-  color: #F9FAF8;
+  color: #f9faf8;
   flex: 1 1 auto;
 }
 .hero-secondary {
   font-size: 18px;
-  color: #E5E7EB;
+  color: #e5e7eb;
   padding: 10px 0px;
   flex: 1 1 auto;
 }
 .hero-image {
   min-width: 250px;
   min-height: 100px;
-  color: #E5E7EB;
+  color: #e5e7eb;
   display: flex;
   flex: 0 1 auto;
   width: 500px;
@@ -80,13 +80,13 @@ body {
   align-items: center;
 }
 .hero button {
-  color: #F9FAF8;
+  color: #f9faf8;
   flex: 0 6 auto;
-  background-color: #3882F6;
+  background-color: #3882f6;
   border-radius: 5px;
   width: 125px;
   padding: 5px;
-  border-color: #3882F6;
+  border-color: #3882f6;
   font-size: 18px;
   font-weight: bold;
   flex: 0 1 auto;
@@ -103,7 +103,7 @@ body {
   flex: 0 1 auto;
   font-size: 36px;
   font-weight: 700;
-  color: #1F2937;
+  color: #1f2937;
 }
 .info-box {
   display: flex;
@@ -122,10 +122,10 @@ body {
 .box-img {
   width: 150px;
   height: 150px;
-  border: 4px solid #3882F6;
+  border: 4px solid #3882f6;
   border-radius: 15px;
 }
-.box-txt{
+.box-txt {
   text-align: center;
   font-size: 18px;
   color: #505050;
@@ -133,13 +133,13 @@ body {
 /* quote section */
 .quote-sect {
   padding: 120px;
-  background-color: #E5E7EB;
+  background-color: #e5e7eb;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-.q-wrapper{
+.q-wrapper {
   width: 825px;
   display: flex;
   flex-direction: column;
@@ -149,11 +149,12 @@ body {
   align-self: flex-end;
   font-size: 36px;
   font-style: italic;
-  color: #1F2937;
+  color: #1f2937;
 }
 .writer {
   font-size: 24px;
-  color: #1F2937;
+  color: #1f2937;
   font-weight: bold;
   align-self: flex-end;
 }
+/* call to action */
