@@ -194,7 +194,6 @@ body {
   background-color: #3882f6;
   border-radius: 5px;
   width: 125px;
-  height: 35px;
   padding: 5px;
   border-color: #f9faf8;
   font-size: 18px;
@@ -202,3 +201,12 @@ body {
   flex: 0 1 auto;
 }
 /* footer */
+.footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  display: flex;
+  padding: 40px;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+}
