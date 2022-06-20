@@ -9,6 +9,7 @@ body {
 }
 
 .header-hero {
+  flex: 0 1 auto;
   display: flex;
   flex-direction: column;
   background-color: #1F2937;
@@ -48,6 +49,7 @@ body {
   justify-content: space-between;
 }
 .hero-content {
+  flex: 0 1 auto;
   width: 500px;
   height: 200px;
   display: flex;
@@ -78,7 +80,10 @@ body {
   flex: 0 1 auto;
   background-color: #3882F6;
   border-radius: 5px;
-  width: 100px;
+  width: 125px;
   padding: 5px;
   border-color: #3882F6;
+  font-size: 18px;
+  font-weight: bold;
 }
+/* info section */
