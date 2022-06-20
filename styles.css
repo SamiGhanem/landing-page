@@ -97,6 +97,7 @@ body {
   flex-direction: column;
   align-items: center;
   padding: 40px;
+  padding-bottom: 80px;
 }
 .info-header {
   flex: 0 1 auto;
@@ -129,4 +130,30 @@ body {
   font-size: 18px;
   color: #505050;
 }
-
+/* quote section */
+.quote-sect {
+  padding: 120px;
+  background-color: #E5E7EB;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.q-wrapper{
+  width: 825px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.quote {
+  align-self: flex-end;
+  font-size: 36px;
+  font-style: italic;
+  color: #1F2937;
+}
+.writer {
+  font-size: 24px;
+  color: #1F2937;
+  font-weight: bold;
+  align-self: flex-end;
+}
